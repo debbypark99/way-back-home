@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/modified.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Success.unity
+  isLoaded: 0
+  isActive: 0
